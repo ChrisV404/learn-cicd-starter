@@ -10,7 +10,7 @@ github.com/go-chi/chi
 # github.com/go-chi/cors v1.2.1
 ## explicit; go 1.14
 github.com/go-chi/cors
-# github.com/google/uuid v1.3.0
+# github.com/google/uuid v1.6.0
 ## explicit
 github.com/google/uuid
 # github.com/joho/godotenv v1.5.1
@@ -26,6 +26,8 @@ github.com/libsql/sqlite-antlr4-parser/sqliteparserutils
 # github.com/pmezard/go-difflib v1.0.0
 ## explicit
 github.com/pmezard/go-difflib/difflib
+# github.com/securego/gosec/v2 v2.20.0
+## explicit; go 1.20
 # github.com/stretchr/testify v1.9.0
 ## explicit; go 1.17
 github.com/stretchr/testify/assert
