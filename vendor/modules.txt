@@ -10,6 +10,8 @@ github.com/go-chi/chi
 # github.com/go-chi/cors v1.2.1
 ## explicit; go 1.14
 github.com/go-chi/cors
+# github.com/google/go-cmp v0.6.0
+## explicit; go 1.13
 # github.com/google/uuid v1.6.0
 ## explicit
 github.com/google/uuid
@@ -26,8 +28,6 @@ github.com/libsql/sqlite-antlr4-parser/sqliteparserutils
 # github.com/pmezard/go-difflib v1.0.0
 ## explicit
 github.com/pmezard/go-difflib/difflib
-# github.com/securego/gosec/v2 v2.20.0
-## explicit; go 1.20
 # github.com/stretchr/testify v1.9.0
 ## explicit; go 1.17
 github.com/stretchr/testify/assert
@@ -43,6 +43,8 @@ github.com/tursodatabase/libsql-client-go/libsql/internal/ws
 ## explicit; go 1.18
 golang.org/x/exp/constraints
 golang.org/x/exp/slices
+# golang.org/x/sys v0.20.0
+## explicit; go 1.18
 # gopkg.in/yaml.v3 v3.0.1
 ## explicit
 gopkg.in/yaml.v3
