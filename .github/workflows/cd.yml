@@ -20,8 +20,3 @@ jobs:
 
       - name: Build
         run: ./scripts/buildprod.sh
-
-      - name: Deploy
-        run: |
-          echo "Deploying..."
-          ./app
